@@ -1,7 +1,7 @@
 # Snappy - Chat Application 
 
 
-![login page](./images/snappy_login.png)
+![login page](snappy_login.png)
 
-![home page](./images/snappy.png)
+![home page](./snappy.png)
 
